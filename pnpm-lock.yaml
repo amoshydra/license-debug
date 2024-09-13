@@ -18,6 +18,8 @@ importers:
 
   packages/see-license-mock-mocha: {}
 
+  packages/unknown: {}
+
   packages/unlicensed: {}
 
 packages:
