@@ -14,5 +14,6 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:amoshydra/license-debug.git"
-  }
+  },
+  "gitHead": "12c89ae499c18dd71590c477366b230d7c1b08f5"
 }
