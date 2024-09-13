@@ -13,7 +13,7 @@
     "@license-debug"
   ],
   "author": "amoshydra (https://github.com/amoshydra)",
-  "license": "SEE LICENSE IN LICENSE",
+  "license": "SEE LICENSE IN LICENSE.md",
   "homepage": "https://github.com/amoshydra/license-debug/tree/main/packages/see-license-mock-mocha",
   "repository": {
     "type": "git",
