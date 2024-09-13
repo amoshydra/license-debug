@@ -12,7 +12,11 @@ importers:
         specifier: ^8.1.5
         version: 8.1.8(encoding@0.1.13)
 
+  packages/GPL-3-0: {}
+
   packages/GPL-3-0-only: {}
+
+  packages/see-license-mock-mocha: {}
 
   packages/unlicensed: {}
 
