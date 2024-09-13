@@ -3,6 +3,10 @@
   "version": "0.0.4",
   "description": "",
   "main": "index.js",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "keywords": [
     "license",
     "license-debug",
@@ -15,5 +19,5 @@
     "type": "git",
     "url": "git@github.com:amoshydra/license-debug.git"
   },
-  "gitHead": "12c89ae499c18dd71590c477366b230d7c1b08f5"
+  "gitHead": "f51205152f8cf1852ee11858a564d346e4969051"
 }
