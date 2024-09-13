@@ -1,16 +1,16 @@
 {
-  "name": "@amoshydra/license-debug-unlicensed",
+  "name": "@license-debug/unlicensed",
   "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "keywords": [
     "license",
     "license-debug",
-    "@amoshydra/license-debug"
+    "@license-debug"
   ],
   "author": "amoshydra (https://github.com/amoshydra)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/amoshydra/license-debug/tree/main/packages/license-debug-unlicensed",
+  "homepage": "https://github.com/amoshydra/license-debug/tree/main/packages/unlicensed",
   "repository": {
     "type": "git",
     "url": "git@github.com:amoshydra/license-debug.git"
