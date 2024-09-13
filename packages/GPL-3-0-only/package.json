@@ -1,0 +1,23 @@
+{
+  "name": "@license-debug/gpl-3-0-only",
+  "version": "0.0.5",
+  "description": "",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "keywords": [
+    "license",
+    "license-debug",
+    "@license-debug"
+  ],
+  "author": "amoshydra (https://github.com/amoshydra)",
+  "license": "GPL-3.0-only",
+  "homepage": "https://github.com/amoshydra/license-debug/tree/main/packages/GPL-3-0-only",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:amoshydra/license-debug.git"
+  },
+  "gitHead": "f51205152f8cf1852ee11858a564d346e4969051"
+}
